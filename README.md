@@ -15,7 +15,3 @@ Running the script is really simple! Just open a terminal in the folder where yo
 ```sh
 python tic_tac_toe.py
 ```
-
-## Author
-[Anokh1](https://github.com/Anokh1)
-
